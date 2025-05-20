@@ -168,5 +168,6 @@ const lua_54_source_files = lua_base_source_files ++ [_][]const u8{
     "src/ldo.c",
     "src/lctype.c",
     "src/lcorolib.c",
+    "src/lthrlib.c",
     "src/lutf8lib.c",
 };
