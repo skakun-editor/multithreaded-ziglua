@@ -28,8 +28,8 @@
         },
 
         .lua54 = .{
-            .url = "https://www.lua.org/ftp/lua-5.4.8.tar.gz",
-            .hash = "N-V-__8AAKEzFAAA695b9LXBhUSVK5MAV_VKSm1mEj3Acbze",
+            .url = "https://github.com/skakun-editor/multithreaded-lua/archive/6eb98dd9b72d36ead1ed2475297753891448df69.tar.gz",
+            .hash = "N-V-__8AAK6oDQARXWLrWSNQZf1oFjDIYzr6A8on5D0kxuM7",
             .lazy = true,
         },
 
